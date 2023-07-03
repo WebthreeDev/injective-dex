@@ -68,7 +68,8 @@
     "vee-validate": "4.7.3",
     "vue-gtag": "^2.0.2-beta.0",
     "vue-hotjar": "^1.4.0",
-    "vue-jest": "^4.0.0-0"
+    "vue-jest": "^4.0.0-0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@bangjelkoski/node-stdlib-browser": "^0.0.1",
